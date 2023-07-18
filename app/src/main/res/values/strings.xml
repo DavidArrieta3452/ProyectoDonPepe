@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProyectoDonPepe</string>
+    <string name="tv_user">USUARIO</string>
+    <string name="txt_user" />
+    <string name="tv_password">CONTRASEÑA</string>
+    <string name="txt_password" />
+    <string name="btn_login">INICIAR SESIÓN</string>
+    <string name="btn_listado">PRODUCTOS</string>
+    <string name="btn_registrar">REGISTRO PRODUCTO</string>
+    <string name="tv_registrar">Registrar Producto</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_f_emicion">Fecha de Emisión</string>
+    <string name="txt_nombre" />
+    <string name="txt_femicion" />
+    <string name="tv_f_vencimiento">Fecha de Vencimiento</string>
+    <string name="tv_stcok">Stock</string>
+    <string name="tv_tipo">Tipo de Producto</string>
+    <string name="txt_tipo" />
+    <string name="btn_listar">LISTADO PRODUCTOS</string>
+    <string name="btn_volver">VOLVER</string>
+    <string name="btn_cregistro">REGISTRAR</string>
+    <string name="tv_listarProd">PRODUCTOS</string>
+</resources>
